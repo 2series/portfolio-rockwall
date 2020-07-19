@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Rockwall Analytics"
-  description = "Portfolio/CV for Rihad and Samira Variawa"
+  name = "Rihad and Samira Variawa"
+  description = "Portfolio/CV for Rockwall Analytics"
 
   # Link custom assets relative to /static
   custom_css = []
