@@ -173,9 +173,9 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "rihad@onymail.com"
+    email = "rihadv021@gmail.com"
 
-    [[params.contact.phone]]
+    #[[params.contact.phone]]
     #title = "Phone"
     #phone = "(000) 000-0000 x1234"
 
