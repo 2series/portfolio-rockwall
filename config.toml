@@ -60,15 +60,15 @@ disqusShortname = ""
     #    name = "NameOfLink"
     #    url = "UrlOfLink"
 
-    # Button Style 1
-    #[[params.navigation.button1]]
-    #  name = "Get Started"
-    #  url = "blogs"
+     Button Style 1
+    [[params.navigation.button1]]
+      name = "Get Started"
+      url = "blogs"
 
-    # Button Style 2
-    #[[params.navigation.button2]]
-    #  name = "Log In"
-    #  url = "#"
+     Button Style 2
+    [[params.navigation.button2]]
+      name = "Log In"
+      url = "#"
 
 
   # Banner section
@@ -183,7 +183,7 @@ disqusShortname = ""
     title = "Address"
     street = "Montecasino Blvd, Fourways"
     city = "Johannesburg"
-    country = "South Africa"
+    country = "SA"
 
   # Footer section
   [params.footer]
