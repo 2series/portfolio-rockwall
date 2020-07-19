@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Rockwall for Rihad Variawa"
+title = "Rockwall Analytics"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -39,8 +39,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Rihad Variawa"
-    subtitle = "Data Scientist"
+    title = "Rockwall Analytics"
+    subtitle = "Analytics, Applied Ai, Research & Advisory firm serving high-growth ambitious firms: achieve business agility with data"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
